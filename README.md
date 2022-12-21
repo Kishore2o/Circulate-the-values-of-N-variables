@@ -27,6 +27,7 @@ end the program
  b=a[n:]+a[:n]
  print("After circulating the values are:",b)
 ## Output:
+![image](https://user-images.githubusercontent.com/118679883/208894381-3f7b22a1-5b62-4d6c-b554-4d29f8d716ef.png)
 
 ## Result:
 "The program has executed successfully"
