@@ -27,7 +27,8 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![OUTPUT](./images/circle.png)
+![circle](https://user-images.githubusercontent.com/118679883/213386819-5168f1ae-4c43-4416-a888-d4ba552df956.png)
+
 
 ## Result:
 "The program has executed successfully"
