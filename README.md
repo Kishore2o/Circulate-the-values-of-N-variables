@@ -19,8 +19,15 @@ Get the value from the user for the number of rotation
 ### Step 6: 
 end the program
 ## Program:
-
+```
+def circulate():
+    circul=l[n:]+l[:n]
+    print("After circulating the values are:",circul)
+l=eval(input())
+n=int(input())
+```
 ## Output:
+![OUTPUT](./images/circle.png)
 
 ## Result:
 "The program has executed successfully"
